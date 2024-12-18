@@ -1,0 +1,33 @@
+/* public/css/detail.css */
+
+.shop-detail-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.shop-detail-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.shop-detail-container h1 {
+    margin: 20px 0;
+}
+
+.shop-detail-container p {
+    margin: 10px 0;
+}
+
+.shop-detail-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.shop-detail-container button:hover {
+    background-color: #0056b3;
+}

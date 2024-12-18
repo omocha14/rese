@@ -1,0 +1,50 @@
+/* public/css/index.css */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f8f8f8;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.menu-icon {
+    font-size: 24px;
+}
+
+.rese__section {
+    margin: 20px 0;
+}
+
+.rese__card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rese__card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.rese__card h3 {
+    margin: 10px 0 5px;
+}
+
+.rese__card p {
+    margin: 0 0 10px;
+}
+
+.heart-icon {
+    font-size: 24px;
+    color: red;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+{
+    "name": "rese/rese",
+    "description": "Your project description",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^9.0",
+        "laravel/fortify": "^1.8"
+    },
+    "config": {
+        "platform": {
+            "php": "8.0.0"
+        }
+    }
+}
